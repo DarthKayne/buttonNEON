@@ -91,9 +91,3 @@ html,body{
         background-color: #2196f3;
         color: #333;
     }
-    .button:active{
-        transition: all 0.1s ease 0s;
-        background-color: rgb(0, 255, 0);
-        box-shadow: 0 0 10px #ee1f1f, 0 0 30px #ee1f1f, 0 0 60px #ee1f1f;
-        color: rgb(22, 21, 27);
-    }
